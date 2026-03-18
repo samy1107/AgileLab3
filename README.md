@@ -1,3 +1,3 @@
 ﻿# AgileLab3
 #I Eddited this file
-#Eddited in web interfacd directly
+#Eddited in web interface directly
